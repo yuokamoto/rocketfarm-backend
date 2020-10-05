@@ -1,0 +1,9 @@
+[submodule "gazebo_plugins"]
+	path = gazebo_plugins
+	url = ./gazebo_plugins
+[submodule "turtlebot3"]
+	path = turtlebot3
+	url = ./turtlebot3
+[submodule "universal_robot"]
+	path = universal_robot
+	url = ./universal_robot
